@@ -1,6 +1,8 @@
 
 **TL;DR** An algorithm that randomly generates abstract images of landscapes.
 
+Visit my [Website](https://anton.stamme.de/genscape/) to learn more about this project.
+
 ## About Generative Art
 
 My interest in algorithms and blockchain technology, combined with the love for art, led me to explore the topic of generative art. This type of art is made using computer algorithms. Computer algorithms which have been carefully created and fine-tuned in a creative process by the human arist. This has nothing to do with AI-generated art.
